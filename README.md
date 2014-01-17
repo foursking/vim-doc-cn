@@ -1,1 +1,1 @@
-vim cn doc
+vim的中文帮助
